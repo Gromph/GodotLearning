@@ -8,16 +8,10 @@
 
 config_version=3
 
-=false
-
-[Display]
-
-=false
-
 [application]
 
 config/name="New Game Project"
-run/main_scene="res://Player.tscn"
+run/main_scene="res://Main.tscn"
 config/icon="res://icon.png"
 
 [display]
